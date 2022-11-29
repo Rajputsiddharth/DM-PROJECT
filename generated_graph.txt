@@ -1,0 +1,11 @@
+# Undirected graph (each unordered pair of nodes is saved once): generated_graph.txt
+# Save as tab-separated list of edges
+# Nodes: 5 Edges: 7
+# NodeId	NodeId
+0	1
+0	3
+1	2
+1	3
+1	4
+2	4
+3	4
