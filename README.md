@@ -12,7 +12,7 @@ This project utilizes the Snap library to generate undirected graphs, analyze th
 ## Usage
 1. Clone the repository:
      ```
-     git clone https://github.com/your-username/DM-Project.git
+     git clone https://github.com/Rajputsiddharth/DM-Project.git
      ```
 2. Install the required dependencies.
 3. Run the Python script `graph_analysis.py` to execute the code.
